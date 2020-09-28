@@ -7,9 +7,8 @@ As a seasoned DevOps practitioner with 20+ years experience, my goal is to chall
 
 ## Skills
 
-- **Data Engineering:** general programming and scripting; cloud computing; streaming data pipelines; database design and management; Python, git, Amazon Web Services
-- **Data Analysis:** machine learning; deep learning; natural language processing; time series analysis; data visualization; `pandas`, `scikit-learn`, `pytorch`, `statsmodels`, `spacy`, `matplotlib`
-- **Product Development:** project scoping and management; scrum and kanban; REST API design and implementation; technical writing; Jira, Balsamiq Wireframes, `flask` and `fastapi`, markdown and LaTeX
+- **Data Engineering:** general programming and scripting; cloud computing; database design and management; Python, git, Amazon Web Services
+- **Product Development:** project scoping and management; scrum and kanban; REST API design and implementation; technical writing; Jira, Bitbucket, and markdown
 
 ## Experience
 
@@ -51,23 +50,26 @@ Early adopter and evangelist for CI/CD tools as part of the development lifecycl
 
 ## Education
 
-### <span>Convergence Cloud Technology</span> <span>2007 - 2012</span>
-[Tarrant County Community College](https://www.stonybrook.edu), Hurst, TX
+### <span>Convergence Cloud Technology</span> <span>2015 - 2017</span>
+[Tarrant County Community College](https://www.tccd.edu/), Hurst, TX
 
-### <span>Personnel Management</span> <span>2003 - 2007</span>
-[Central Texas College](https://www.kzoo.edu); Killeen, TX
+### <span>Personnel Management</span> <span>1990</span>
+[Central Texas College](https://www.ctcd.edu/); Killeen, TX
 
-### <span>Certified DevOps Generalist - 37381752751767</span> <span>2003 - 2007</span>
-[DevOps-GEN™](https://www.kzoo.edu); Kennedale, TX
+### <span>Certified DevOps Generalist - [37381752751767](http://www.devops-certification.org/International_DevOps_Certification_Academy_Certificate_Validation_Tool.php?AUTHORIZED_CERTIFICATE_ID=37381752751767)</span> <span>2020</span>
+[DevOps-GEN™](http://www.devops-certification.org); Kennedale, TX
 
-### <span>Certified DevOps Developer - 14854414120782</span> <span>2003 - 2007</span>
-[DevOps-DEV™](https://www.kzoo.edu); Kennedale, TX
+### <span>Certified DevOps Developer - [14854414120782](http://www.devops-certification.org/International_DevOps_Certification_Academy_Certificate_Validation_Tool.php?AUTHORIZED_CERTIFICATE_ID=14854414120782)</span> <span>2020</span>
+[DevOps-DEV™](http://www.devops-certification.org); Kennedale, TX
 
-### <span>Java Programming</span> <span>2003 - 2007</span>
+### <span>Java Programming</span> <span>-</span>
+[Hands on Technology Transfer, Inc.](https://www.traininghott.com/); Irving, TX
 
-### <span>Visual Basic Programmer</span> <span>2003 - 2007</span>
+### <span>Visual Basic Programmer</span> <span>2002</span>
+[ICS Learning Systems](http://wwww.icslearn.com); Scranton, PA
 
-### <span>Oracle SQL and PL/SQL</span> <span>2003 - 2007</span>
+### <span>Oracle SQL and PL/SQL</span> <span>-</span>
+[Oracle, thinkSpark](www.thinkspark.com); Fort Worth, TX
 
 
 ## UNITED STATES ARMY (VETERAN):
