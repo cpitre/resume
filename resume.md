@@ -6,25 +6,25 @@ As a seasoned DevOps practitioner with 20+ years of experience, my goal is to ch
 
 ## EXPERIENCE:
 
-### <span>Software Engineer, Manager, Scrum Master, Team Lead</span> <span>Jun 2018 - Aug 2020</span>
+### <span>DevOps Team Lead/Manager</span> <span>Jun 2018 - Aug 2020</span>
 
 [JPMorgan Chase](https://www.linkedin.com/company/jpmorganchase/), Plano, TX
 
-* Contributed in development and operations automation within the observability space
-* Automated the manual steps to on-boarding of application logging/metrics gathering
-* Reduced customer delivery process from more than 14 days to minutes
-* Mentored teams & individuals on Agile/Scrum, CI/CD and Infrastructure as Code methodologies
-* Leveraged APIs to glue together integrations points to deliver features/enhancements that reduce toil
+*	Developed an Infrastructure as Code within the monitoring space deliverables (Splunk, and Dynatrace)
+*	Automated the manual steps to on-boarding of application logging/metrics gathering (Ansible, Splunk API)
+*	Reduced delivery process from 14 days to minutes (using Ansible, Docker, Jenkins, Python/Groovy)
+*	Managed and mentored individuals on Agile/Scrum, CI/CD and Infrastructure as Code methodologies
+*	Leveraged APIs to glue together integrations points to deliver features/enhancements that reduce toil
 
 ### <span>Lead DevOps Engineer</span> <span>Apr 2017 - Jun 2018</span>
 
 [Thomson Reuters](https://www.linkedin.com/company/thomson-reuters/), Carrollton, TX
 
-* Contributed and guided the teams’ maturation in the delivery process of applications and maintainability of environments using DevOps best practices and culture
-* Automated Windows platform daily builds and deployments of AWS cloud to off premises network (VPN)
-* Converted manual process to a fully automated process from more than 4 hours to less than 30 minutes
-* Used the previous example as reference implementation for further migrations into automation
-* Mentored teams on automation, agile/scrum best practices
+*	Contributed and guided the teams’ maturation in the delivery process of applications and maintainability of environments using DevOps best practices, culture & tools (Ansible, Docker, Git, Groovy, Jenkins, Python)
+*	Designed, built and managed Continuous Integration/Delivery/Deployment in hybrid cloud (AWS/VPN)
+*	Converted manual process to a fully automated process from more than 4 hours to less than 30 minutes
+*	Enhanced automation with TDD & BDD in configuration management (Ansible, Jenkins, Groovy, etc.)
+*	Contributed/mentored teams on automation, agile/scrum best practices in installing a& configuring monitoring agents (Datadog)
 
 ### <span>Senior DevOps Engineer</span> <span>Apr 2018 - Jun 2018</span>
 
@@ -38,41 +38,41 @@ As a seasoned DevOps practitioner with 20+ years of experience, my goal is to ch
 
 [Fidelity Investment](https://www.linkedin.com/company/fidelity-investments/), Westlake, TX
 
-* Implemented solutions to complex automation tasks for applications using ALM tools
-* Maintained various CI/CD environments/tools and other configuration management tools
-* Improved development experience by creating/evangelizing the use of development tools' RESTful API 
-* Evangelized maturing the database development lifecycle with CI/CD tools and processes
-* Migrated manual build/deployment processes into UDeploy build/deploy automated process via Git 
-* Integrated UDeploy with deployment approval authorization through ServiceNow (check approvals)
+*	Implemented solutions to complex automation tasks for applications using ALM tools
+*	Maintained various CI/CD environments/tools and other configuration management tools
+*	Improved development experience by creating/evangelizing the use of development tools' RESTful API 
+*	Evangelized maturing the database development lifecycle with CI/CD tools and processes
+*	Migrated manual build/deployment processes into UDeploy build/deploy automated process via Git 
+*	Integrated UDeploy with deployment approval authorization through ServiceNow (check approvals)
 
 ### <span>Senior SCM Engineer</span> <span>Jun 2011 - Nov 2015</span>
 
 [Speed FC/Speed Commerce, Inc.](https://www.linkedin.com/company/speed-commerce/), Richardson, TX
 
-* Managed the source control environment, and the deployment/release of Java/PHP eCommerce stacks
-* Implemented and maintained various virtual Linux Dev/QA/UAT machines, and CI/CM environments
-* Automated manual/time-consuming build artifacts to be reliable & repeatable
-* Grew the CI/CD lifecycle, from 1 product to more than 20, each with 3 concurrent sprints in development
+*	Managed the source control environment, and the deployment/release of Java/PHP eCommerce stacks
+*	Implemented and maintained various virtual Linux Dev/QA/UAT machines, and CI/CM environments
+*	Automated manual/time-consuming build artifacts to be reliable & repeatable
+*	Grew the CI/CD lifecycle, from 1 product to more than 20, each with 3 concurrent sprints in development
 
-### <span>Senior SCM, System Administrator, CI Manager, SCM, Software Change Manager, Developer, Product Process Analyst, Systems Integration Manager</span> <span>Apr 1998 - Jun 2011</span>
+### <span>Senior SCM</span> <span>Apr 1998 - Jun 2011</span>
 
 [Sabre Holdings](https://www.linkedin.com/company/sabre-corporation/), Southlake, TX
 
-* Early adopter and evangelist for CI/CD tools as part of the development lifecycle
-* Architected & delivered an open sourced enterprise level source control product that saved $500,000 a year
-* Maintained the infrastructure of the VersionOne project management tool
-* Provided technical support, documentation and software installations to global field installers
+*	Early adopter and evangelist for CI/CD tools as part of the development lifecycle
+*	Architected & delivered an open sourced enterprise level source control product that saved $500,000 a year
+*	Maintained the infrastructure of the VersionOne project management tool
+*	Provided technical support, documentation and software installations to global field installers
 
 ## SKILLS:
 
-Agile, Ansible, Ansible Tower, Apache, Artifactory, AWS, Bash, Bitbucket, Bugzilla, Build Automation, Chef, Clearcase, Clearquest, Cloud Administration, Cloud Development, Configuration Management, Confluence, Continuous Integration, Crowd, CruiseControl, CVS, Datical, Delphix, DevOps, Django, Docker, Flyway, Git, Gitea, GitHub, GitOps, Groovy, Hudson, InstallShield, Java, Jenkins, Jira, Linux, MacOS, Markdown, Microsoft Azure, Molecule, MySQL, Nexus, Oracle, Packer, Pearl, PHP, PowerShell, Process Automation, Python, Raspberry Pi, Release Management, Requirements Analysis, RESTful APIs, Scrum, Software Development Life Cycle (SDLC), Software Documentation, Software Project Management, Sonar, Splunk, SQL, Subversion, System Administration, Terraform, UDeploy, Vagrant, VirtualBox, Visual SourceSafe, Visual Studio Code, Web Applications, Web Development, Windows 
+Agile, Ansible, Ansible Tower, Apache, Artifactory, AWS, Bash, BDD, Bitbucket, Bugzilla, Build Automation, Chef, Clearcase, Clearquest, Cloud Administration, Cloud Development, Configuration Management, Confluence, Continuous Integration, Crowd, CruiseControl, CVS, Datical, Delphix, DevOps, Django, Docker, Flyway, Git, Gitea, GitHub, GitOps, Groovy, Hudson, InstallShield, Java, Jenkins, Jira, Kubernetes, Linux, MacOS, Markdown, Microsoft Azure, Molecule, MySQL, Nexus, Oracle, Packer, Pearl, PHP, Podman, Portainer, PowerShell, Process Automation, Python, Raspberry Pi, Release Management, Requirements Analysis, RESTful APIs, Scrum, Software Development Life Cycle (SDLC), Software Documentation, Software Project Management, Sonar, Splunk, SQL, Subversion, System Administration, TDD, Terraform, UDeploy, Vagrant, VirtualBox, Visual SourceSafe, Visual Studio Code, Web Applications, Web Development, Windows
 
 ## EDUCATION:
 
-### <span>Convergence Cloud Technology</span> <span>2015 - 2017</span> 
+### <span>Convergence Cloud Technology</span> <span>2015 - 2016</span> <span>(non-degree, 3.462 GPA)</span>
 <span>[Tarrant County Community College](https://www.tccd.edu/), Hurst, TX</span>
 
-### <span>Personnel Management</span> <span>1990</span> 
+### <span>Personnel Management</span> <span>1990</span> <span>(non-degree, 3.0 GPA)</span>
 <span>[Central Texas College](https://www.ctcd.edu/), Killeen, TX</span>
 
 ### <span>Certified DevOps Generalist</span> <span>2020</span> 
@@ -83,18 +83,21 @@ Agile, Ansible, Ansible Tower, Apache, Artifactory, AWS, Bash, Bitbucket, Bugzil
 <span>[ID: 14854414120782](http://www.devops-certification.org/International_DevOps_Certification_Academy_Certificate_Validation_Tool.php?AUTHORIZED_CERTIFICATE_ID=14854414120782)</span> - 
 <span>[DevOps-DEV™](http://www.devops-certification.org), Kennedale, TX</span>
 
-### <span>Java Programming</span> <span></span>
+### <span>Java Programming</span> <span>2002</span>
 [Hands on Technology Transfer, Inc.](https://www.traininghott.com/), Irving, TX
 
 ### <span>Visual Basic Programmer</span> <span>2002</span>
 [ICS Learning Systems](http://wwww.icslearn.com), Scranton, PA
 
-### <span>Oracle SQL and PL/SQL</span> <span></span>
+### <span>Oracle SQL and PL/SQL</span> <span>2000</span>
 [Oracle, thinkSpark](www.thinkspark.com), Fort Worth, TX
+
+### <span>Inter-Networking with TCP/IP</span> <span>1998</span>
+[Applied Career Training](www.thinkspark.com), Dallas, TX
 
 ## LANGUAGES:        
 
-Spanish
+Spanish (fluent)
 
 ## UNITED STATES ARMY (VETERAN):
 
